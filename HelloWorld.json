@@ -8,6 +8,9 @@
   "extensions": [
     {
       "payload": {
+	      "match": {
+		      "user name":["Lucille Suarez"]
+	      },
         "include-files": [
           "helloWorld/helloWorld.user.js"
         ],
