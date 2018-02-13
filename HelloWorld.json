@@ -12,10 +12,10 @@
 		      "user name":["Lucille Suarez"]
 	      },
         "include-files": [
-          "helloWorld/helloWorld.user.js"
+          "helloWorld.user.js"
         ],
 	      "include-repo":{
-	       "name": "global-samples"
+	       "name": "customizer-1"
 	     }
       },
       "name": "Hello World Extension",
