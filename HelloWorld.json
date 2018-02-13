@@ -1,5 +1,5 @@
 {
-  "name": "Homepage Customization",
+  "name": "DLS Homepage Customization",
   "title": "Introductory Customizer App",
   "description": "Inserts text into IBM Connections Homepage",
   "services": [
@@ -12,13 +12,13 @@
 		      "user name":["Lucille Suarez"]
 	      },
         "include-files": [
-          "helloWorld/helloWorld.user.js"
+          "helloWorld.user.js"
         ],
 	      "include-repo":{
-	       "name": "global-samples"
+	       "name": "customizer-1"
 	     }
       },
-      "name": "Hello World Extension",
+      "name": "DLS Hello World Extension",
       "type": "com.ibm.customizer.ui",
       "path": "homepage"
     }
