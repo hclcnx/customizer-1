@@ -18,6 +18,7 @@
 // ==/UserScript==
 
 if(typeof(dojo) != "undefined") {
+	
 	require(["dojo/domReady!"], function(){
         try {
             // utility function to let us wait for a specific element of the page to load...
